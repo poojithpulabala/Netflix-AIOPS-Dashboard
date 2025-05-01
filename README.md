@@ -11,10 +11,6 @@ infrastructure in real-time using machine learning.
 - ✅ Lightweight and Dockerized
 - ✅ Simulates real-world streaming system monitoring
 
-## 📸 Dashboard Screenshot
-
-![dashboard-preview](https://user-images.githubusercontent.com/your-image-url/dashboard.png)
-
 ## 🧠 Tech Stack
 
 - Python 3
