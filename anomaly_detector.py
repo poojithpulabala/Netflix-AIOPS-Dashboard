@@ -1,5 +1,3 @@
-# app/anomaly_detector.py
-
 from sklearn.ensemble import IsolationForest
 import pandas as pd
 
