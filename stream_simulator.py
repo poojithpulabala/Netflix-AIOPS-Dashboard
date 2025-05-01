@@ -1,5 +1,3 @@
-# app/stream_simulator.py
-
 import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
