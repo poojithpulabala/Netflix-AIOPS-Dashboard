@@ -1,5 +1,3 @@
-# app/dashboard.py
-
 import streamlit as st
 from stream_simulator import generate_stream_data
 from anomaly_detector import detect_anomalies
